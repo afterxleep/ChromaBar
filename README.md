@@ -1,3 +1,5 @@
+<img valign="middle" alt="Chromabar logo" width="120" src="./icon/icon" />
+
 # ChromaBar
 
 A Visual Studio Code extension that helps you visually distinguish between multiple VS Code windows by customizing the title bar color on a per-workspace basis. Perfect for developers juggling multiple projects simultaneously.
