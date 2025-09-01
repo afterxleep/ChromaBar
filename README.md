@@ -68,19 +68,17 @@ ChromaBar features a carefully curated gradient palette:
 | ![](https://img.shields.io/badge/--%234A4F9E?style=flat) | `#4A4F9E` | **Victoria** |
 | ![](https://img.shields.io/badge/--%234F7ABB?style=flat) | `#4F7ABB` | **Steel Blue** |
 
-## ⚙️ Configuration
+### Troubleshooting
 
-### Enable Custom Title Bar (Required)
+Chromabar requires VS Code's custom title bar to work (Enabled by default in VSCode and Cursor)
 
-ChromaBar requires VS Code's custom title bar to work:
+ChromaBar will prompt you if this isn't set.  If not, enable it via User Settings:
 
 ```json
 {
   "window.titleBarStyle": "custom"
 }
 ```
-
-ChromaBar will prompt you if this isn't set.
 
 ## 🏗️ How It Works
 
@@ -91,10 +89,6 @@ ChromaBar modifies VS Code's `workbench.colorCustomizations` at the workspace le
 3. **Automatic Restoration**: When you reopen a project, ChromaBar automatically restores its color
 4. **Window Independence**: Each VS Code window can have a different color - perfect for multi-project workflows
 5. **Native Integration**: Uses VS Code's built-in theming system for compatibility
-
-## 🤝 Contributing
-
-We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ### Quick Development Setup
 
@@ -141,4 +135,4 @@ MIT © ChromaBar Contributors
 ---
 
 <p align="center">Made with ❤️ for developers who love organized workspaces</p>
-<p align="center">© 2024 ChromaBar</p>
+<p align="center">© 2025 ChromaBar</p>
