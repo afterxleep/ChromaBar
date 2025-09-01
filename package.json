@@ -2,7 +2,7 @@
   "name": "chromabar",
   "displayName": "ChromaBar",
   "description": "Change title bar colors to distinguish VS Code windows per workspace",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "afterxleep",
   "icon": "icon.png",
   "repository": {
