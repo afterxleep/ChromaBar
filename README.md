@@ -32,15 +32,20 @@ When working with multiple VS Code windows, it's easy to lose track of which win
 
 1. Open VS Code
 2. Press `Ctrl+P` / `Cmd+P` to open the Quick Open dialog
-3. Type `ext install chromabar`
+3. Select `Extensions: Install Extension`
+4. Search for "Chromabar"
+5. Install!
+
 
 ## 📖 Usage
 
 ### Quick Start
 
-1. **Click the paint icon** (🎨) in the status bar
+1. **Click the paint icon** (🎨) in the status bar (Bottom-right)
 2. **Select a color** from the palette
 3. **Done!** Your title bar now has a unique color.
+
+Colors are preserved on in the workspace, and will be used every time you open a project 🎉
 
 ### Commands
 
