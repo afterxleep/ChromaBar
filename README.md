@@ -1,4 +1,4 @@
-<img valign="middle" alt="Chromabar logo" width="120" src="./icon/icon" />
+<img valign="middle" alt="FlowDeck logo" width="120" src="./icon/icon.png" />
 
 # ChromaBar
 
