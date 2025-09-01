@@ -40,7 +40,7 @@ When working with multiple VS Code windows, it's easy to lose track of which win
 
 1. **Click the paint icon** (🎨) in the status bar
 2. **Select a color** from the palette
-3. **Done!** Your title bar now has a unique color
+3. **Done!** Your title bar now has a unique color.
 
 ### Commands
 
