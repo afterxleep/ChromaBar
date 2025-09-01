@@ -31,15 +31,6 @@ When working with multiple VS Code windows, it's easy to lose track of which win
 1. Open VS Code
 2. Press `Ctrl+P` / `Cmd+P` to open the Quick Open dialog
 3. Type `ext install chromabar`
-4. Click Install
-
-### From VSIX Package
-
-1. Download the `.vsix` file from [Releases](https://github.com/yourusername/chromabar/releases)
-2. Open VS Code
-3. Press `Ctrl+Shift+P` / `Cmd+Shift+P`
-4. Type "Install from VSIX"
-5. Select the downloaded file
 
 ## 📖 Usage
 
